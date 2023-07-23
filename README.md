@@ -1,14 +1,14 @@
 👋 Hi, My name is Fairet
 ==============================================================================================================================
 
-### I'm learning Some programming languages and English
+### A creating some projects and repoe's
 -------------------------------------------------
 
 * 🖥️  See my portfolio at the [GitHub](http://github.com/fairet)
 * 🚀  I'm currently working on [GitHub Repository](http://github.com/fairet/MyFirstProjectPython)
 * 🧠  I'm learning Python
 
-<p align="left"> <a href="https://www.github.com/fairet" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/fairet?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a> <img src="https://komarev.com/ghpvc/?username=fairet&label=Profile%20views&color=0e75b6&style=flat" alt="fairet" /> </p>
+<p align="left"> <a href="https://www.github.com/fairet" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/fairet?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a> </p>
 
 
 ### Skills
