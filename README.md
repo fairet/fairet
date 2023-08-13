@@ -5,8 +5,7 @@
 -------------------------------------------------
 
 * 🖥️  See my portfolio at the [GitHub](http://github.com/fairet)
-* 🚀  I'm currently working on [GitHub Repository](https://github.com/fairet/The-Scam-Bot)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Python and IB
 
 <p align="left"> <a href="https://www.github.com/fairet" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=fairet&label=Profile%20views&color=0e75b6&style=flat" alt="fairet" /></a> </p>
 
